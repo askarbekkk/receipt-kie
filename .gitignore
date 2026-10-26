@@ -1,0 +1,5 @@
+results.pkl
+xlmr/
+layoutlmv3/
+__pycache__/
+*.log
